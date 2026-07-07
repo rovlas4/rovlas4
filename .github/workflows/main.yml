@@ -17,7 +17,7 @@ jobs:
 
           user: rovlas4
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
           config_timezone: America/Mexico_City
 
           plugin_languages: yes
