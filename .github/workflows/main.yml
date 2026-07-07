@@ -18,7 +18,6 @@ jobs:
           user: rovlas4
           template: classic
           base: header, activity, community, repositories, metadata
-          config_order: base.header, base.activity, base.repositories, base.community, base.metadata, isocalendar, languages, lines, music
           config_timezone: America/Mexico_City
 
           plugin_languages: yes
