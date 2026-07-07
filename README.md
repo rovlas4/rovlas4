@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="github-metrics.svg" width="600" />
+  <img src="github-metrics.svg" width="500" />
   <br>
-  <img src="metrics-spotify-recent.svg" width="600" />
+  <img src="metrics-spotify-recent.svg" width="500" />
   <br>
-  <img src="metrics-spotify-top.svg" width="600" />
+  <img src="metrics-spotify-top.svg" width="500" />
 </div>
